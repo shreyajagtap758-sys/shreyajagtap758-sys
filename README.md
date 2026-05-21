@@ -199,6 +199,18 @@ How should abandoned uploads and deleted media be handled safely?
 
 **LeetCode:** [View Profile](https://leetcode.com/R9Sz5tXVxg)
 
+### 📈 Problem Solving Activity
+
+<div align="center">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=R9Sz5tXVxg&theme=dark" alt="LeetCode Badges" />
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/R9Sz5tXVxg?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
 **Problem-Solving Focus:**
 - Pattern-oriented DSA learning and problem decomposition
 - Strong focus on arrays, hashing, sliding window, binary search, graphs, and backend-relevant data structures
