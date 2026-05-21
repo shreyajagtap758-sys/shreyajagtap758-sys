@@ -263,11 +263,11 @@ Building a collection of backend engineering writeups and architecture breakdown
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Contribution Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=shreyajagtap758-sys&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyajagtap758-sys&theme=github-dark&hide_border=true)
 
 </div>
 
