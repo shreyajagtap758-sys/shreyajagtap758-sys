@@ -308,7 +308,6 @@ I’m always interested in connecting with people working on:
 ### Profiles
 - GitHub: https://github.com/shreyajagtap758-sys
 - LeetCode: https://leetcode.com/u/R9Sz5tXVxg/
-- LinkedIn: https://linkedin.com/in/ShreyaJagtap
 
 ---
 
