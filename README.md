@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   
-![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2200&pause=1200&color=00B8D4&center=true&vCenter=true&width=700&lines=Shreya+Jagtap;Backend+%26+System+Design+Focused;Building+Production-Grade+Systems;Scalable+Architecture+%7C+Distributed+Thinking)
+![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2200&pause=1200&color=00B8D4&center=true&vCenter=true&width=1200&lines=Shreya+Jagtap;Backend+%26+System+Design+Focused;Building+Production-Grade+Systems;Scalable+Architecture+%7C+Distributed+Thinking)
 
 **Focused on backend engineering, scalable architecture, distributed systems, and production-grade system design through hands-on large-scale application development.**
 
